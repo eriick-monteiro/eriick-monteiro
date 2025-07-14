@@ -1,12 +1,15 @@
+<!-- Hello Everyone! My name is Erick; I'm studying to be a Web Developer. -->
 <div align="center">
   <img src="https://readme-typing-svg.herokuapp.com/?color=Ufff&center=true&vCenter=true&multiline=true&width=500&height=100&lines=Hello+Everyone!+My+name+is+Erick;Im+studying+to+be+a+Web+Developer.">
 </div>
+
+<!-- Readme Stats -->
 <div align="center">
-  <a href="https://github.com/eriick-monteiro">
   <img height="160em" src="https://github-readme-stats.vercel.app/api?username=eriick-monteiro&show_icons=true&theme=dracula&include_all_commits=true&count_private=true&borders=false"/>
   <img height="160em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=eriick-monteiro&layout=compact&langs_count=8&theme=dracula&hide_&card_width=365"/>
 </div>
 
+<!-- Tecnologias e Linguagens -->
 <div style="display: inline_block">
 
   ## Tecnologias
@@ -33,8 +36,8 @@
 ## Alguns Projetos
 <div>
   <ul>
-    <li><a target="_blank" href="https://eriick-monteiro.github.io/PlaceInDocumentation/">PlaceIn Documentation</a>
-    <li><a target="_blank" href="https://eriick-monteiro.github.io/AnizStudio/">AnizStudio</a>
+    <li><a target="_blank" href="https://eriick-monteiro.github.io/PlaceInDocumentation/">PlaceIn Documentation</a></li>
+    <li><a target="_blank" href="https://eriick-monteiro.github.io/AnizStudio/">AnizStudio</a></li>
     <li><a target="_blank" href="https://eriick-monteiro.github.io/VirtualEnviroments/">Virtual Enviroments</li>
     <li><a target="_blank" href="https://eriick-monteiro.github.io/Git-Commands/">Git Commands</li>
   </ul>
