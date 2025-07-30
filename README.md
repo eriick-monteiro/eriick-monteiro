@@ -36,7 +36,6 @@
 ## Alguns Projetos
 <div>
   <ul>
-    <li><a target="_blank" href="https://eriick-monteiro.github.io/PlaceInDocumentation/">PlaceIn Documentation</a></li>
     <li><a target="_blank" href="https://eriick-monteiro.github.io/AnizStudio/">AnizStudio</a></li>
     <li><a target="_blank" href="https://eriick-monteiro.github.io/VirtualEnviroments/">Virtual Enviroments</li>
     <li><a target="_blank" href="https://eriick-monteiro.github.io/Git-Commands/">Git Commands</li>
