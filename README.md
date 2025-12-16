@@ -1,3 +1,5 @@
+ <link rel="stylesheet" type='text/css' href="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/devicon.min.css" /> 
+
 <!-- Hello Everyone! My name is Erick; I'm studying to be a Web Developer. -->
 <div align="center">
   <img src="https://readme-typing-svg.herokuapp.com/?color=Ufff&center=true&vCenter=true&multiline=true&width=500&height=100&lines=Hello+Everyone!+My+name+is+Erick;Im+studying+to+be+a+Web+Developer.">
@@ -16,9 +18,7 @@
   <img align="center" alt="HTML Icon"   height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
   <img align="center" alt="CSS Icon"    height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
   <img align="center" alt="JS Icon"     height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
-  <!--
   <img align="center" alt="TS Icon"     height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/typescript/typescript-original.svg">
-  -->
   <img align="center" alt="Python Icon" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
   <!--
   <img align="center" alt="Java Icon"   height="40" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/java/java-original.svg">
@@ -34,6 +34,7 @@
   -->
   <img align="center" alt="Git Icon"      height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" />
   <img align="center" alt="GitHub Icon"   height="30" width="30" src="https://user-images.githubusercontent.com/85596186/197550500-e095478b-f97b-43d1-9df1-02718e3ba928.png" />
+  <img align="center" alt="Flask Icon"    height="35" width="45" src="https://devicon-website.vercel.app/api/flask/original.svg?color=%23FFFFFF">
   <img align="center" alt="ReactJS Icon"  height="35" width="45" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/react/react-original.svg">
   <img align="center" alt="VueJS Icon"    height="35" width="45" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/vuejs/vuejs-original.svg">
   <!--
