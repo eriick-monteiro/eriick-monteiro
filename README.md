@@ -1,9 +1,9 @@
  <link rel="stylesheet" type='text/css' href="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/devicon.min.css" /> 
 
 <!-- Hello Everyone! My name is Erick; I'm studying to be a Web Developer. -->
-<div align="center">
+<!-- <div align="center">
   <img src="https://readme-typing-svg.herokuapp.com/?color=Ufff&center=true&vCenter=true&multiline=true&width=500&height=100&lines=Hello+Everyone!+My+name+is+Erick;Im+studying+to+be+a+Web+Developer.">
-</div>
+</div> -->
 
 <!-- Readme Stats -->
 <div align="center">
